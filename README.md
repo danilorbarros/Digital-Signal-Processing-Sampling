@@ -1,3 +1,3 @@
 # Processamento Digital de Sinais - Amostragem
 
-Esse trabalho teve como intuito fazer uma apresentação gráfica, utilizando da ferramenta Jupyter Notebook, o processamento digital de sinais a partir do estágio de amostragem.
+This project aimed to explore graphically the sampling method common used in digital signal processing devices.
